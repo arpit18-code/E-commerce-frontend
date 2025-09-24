@@ -1,7 +1,7 @@
 {
   "name": "project01",
   "homepage": "https://arpit18-code.github.io/E-commerce-frontend",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
